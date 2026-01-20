@@ -1,9 +1,9 @@
-numero1 = input("Digite um número: ")
-numero2 = input("Digite outro número: ")
+numero3 = input("Digite um número: ")
+numero4 = input("Digite outro número: ")
 
-numero1 = float(numero1)
-numero2 = float(numero2)
+numero3 = float(numero3)
+numero4 = float(numero4)
 
-subtracao = numero1 - numero2
+subtracao = numero3 - numero4
 
 print("O resultado da subtração dos números é: ", subtracao)
