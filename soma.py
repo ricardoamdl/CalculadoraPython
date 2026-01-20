@@ -8,3 +8,6 @@ soma = numero1 + numero2
 
 print("A soma dos números é: ", soma)
 
+if operacao == "+":
+    resultado = numero1 + numero2
+    print("O resultado da soma é: ", resultado)

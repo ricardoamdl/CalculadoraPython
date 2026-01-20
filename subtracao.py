@@ -7,3 +7,7 @@ numero4 = float(numero4)
 subtracao = numero3 - numero4
 
 print("O resultado da subtração dos números é: ", subtracao)
+
+if operacao == "-":
+    resultado = numero3 - numero4
+    print("O resultado da subtração é: ", resultado)

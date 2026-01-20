@@ -7,3 +7,7 @@ numero8 = float(numero8)
 multiplicacao = numero7 * numero8
 
 print("O resultado da multiplicação é: ", multiplicacao)
+
+if operacao == "*":
+    resultado = numero7 * numero8
+    print("O resultado da multiplicação é: ", resultado)
